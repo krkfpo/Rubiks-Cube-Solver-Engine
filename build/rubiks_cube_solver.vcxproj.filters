@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\RubiksCube.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\RubiksCube3dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\RubiksCube1dArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\RubiksCubeBitboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\NibbleArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\PatternDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\CornerPatternDatabase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\CornerDBMaker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\RubiksCube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Solver\DFSSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Solver\BFSSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Solver\IDDFSSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Model\PatternDatabase\PatternDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\Solver\IDAstarSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\NibbleArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\PatternDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\PermutationIndexer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\CornerPatternDatabase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\CornerDBMaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\PatternDatabases\math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\TLE Eleminators\Masters\GRE\Gremlin GRE\vocab\TC and SE\rubiks-cube-solver-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FB3330A7-F85D-3813-8170-41AF5DFC3118}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{09AC3B57-1322-372F-9124-628554B7828C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
