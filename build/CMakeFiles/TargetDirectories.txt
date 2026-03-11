@@ -1,3 +1,0 @@
-D:/TLE Eleminators/Masters/GRE/Gremlin GRE/vocab/TC and SE/rubiks-cube-solver-main/build/CMakeFiles/rubiks_cube_solver.dir
-D:/TLE Eleminators/Masters/GRE/Gremlin GRE/vocab/TC and SE/rubiks-cube-solver-main/build/CMakeFiles/ALL_BUILD.dir
-D:/TLE Eleminators/Masters/GRE/Gremlin GRE/vocab/TC and SE/rubiks-cube-solver-main/build/CMakeFiles/ZERO_CHECK.dir
